@@ -51,4 +51,4 @@ I focus on **code quality**, **scalability**, and **long-term maintainability**.
 
 ---
 
-## 🏗 Architectural Mindset
+
