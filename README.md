@@ -29,15 +29,15 @@ Backend-focused software developer with hands-on experience building RESTful ser
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yusufsimek07&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=yusufsimsek07&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufsimek07&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufsimsek07&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsimek07&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsimsek07&layout=compact&theme=tokyonight" />
 </p>
 
 ---
