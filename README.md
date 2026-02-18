@@ -35,8 +35,8 @@ I focus on **code quality**, **scalability**, and **long-term maintainability**.
 ## 📊 Engineering Metrics
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yusufsimsek07&show_icons=true&theme=tokyonight&hide=contribs"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsimsek07&layout=compact&theme=tokyonight"/>
+<img height="160" src="https://stats-github-readme.vercel.app/api?username=yusufsimsek07&show_icons=true&theme=tokyonight"/>
+<img height="160" src="https://stats-github-readme.vercel.app/api/top-langs/?username=yusufsimsek07&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
